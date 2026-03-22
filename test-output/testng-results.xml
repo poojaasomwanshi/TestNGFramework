@@ -1,55 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="10" passed="9" failed="0" skipped="0">
+<testng-results ignored="2" total="10" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-22T14:41:30 IST" name="Suite" finished-at="2026-03-22T14:41:30 IST" duration-ms="223">
+  <suite started-at="2026-03-22T15:43:51 IST" name="Suite" finished-at="2026-03-22T15:43:51 IST" duration-ms="201">
     <groups>
     </groups>
-    <test started-at="2026-03-22T14:41:30 IST" name="PersonalLoan" finished-at="2026-03-22T14:41:30 IST" duration-ms="78">
+    <test started-at="2026-03-22T15:43:51 IST" name="PersonalLoan" finished-at="2026-03-22T15:43:51 IST" duration-ms="66">
       <class name="Test.day1">
-        <test-method signature="demo()[pri:0, instance:Test.day1@79e2c065]" started-at="2026-03-22T14:41:30 IST" name="demo" finished-at="2026-03-22T14:41:30 IST" duration-ms="16" status="PASS">
+        <test-method signature="demo()[pri:0, instance:Test.day1@1189dd52]" started-at="2026-03-22T15:43:51 IST" name="demo" finished-at="2026-03-22T15:43:51 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
-        <test-method signature="demo2()[pri:0, instance:Test.day1@79e2c065]" started-at="2026-03-22T14:41:30 IST" name="demo2" finished-at="2026-03-22T14:41:30 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- demo2 -->
       </class> <!-- Test.day1 -->
       <class name="Test.day2">
-        <test-method signature="demo()[pri:0, instance:Test.day2@49ec71f8]" started-at="2026-03-22T14:41:30 IST" name="demo" finished-at="2026-03-22T14:41:30 IST" duration-ms="2" status="PASS">
+        <test-method signature="demo()[pri:0, instance:Test.day2@8f4ea7c]" started-at="2026-03-22T15:43:51 IST" name="demo" finished-at="2026-03-22T15:43:51 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
-        <test-method signature="demo2()[pri:0, instance:Test.day2@49ec71f8]" started-at="2026-03-22T14:41:30 IST" name="demo2" finished-at="2026-03-22T14:41:30 IST" duration-ms="2" status="PASS">
+        <test-method signature="demo2()[pri:0, instance:Test.day2@8f4ea7c]" started-at="2026-03-22T15:43:51 IST" name="demo2" finished-at="2026-03-22T15:43:51 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo2 -->
       </class> <!-- Test.day2 -->
     </test> <!-- PersonalLoan -->
-    <test started-at="2026-03-22T14:41:30 IST" name="Car Loan" finished-at="2026-03-22T14:41:30 IST" duration-ms="12">
+    <test started-at="2026-03-22T15:43:51 IST" name="Car Loan" finished-at="2026-03-22T15:43:51 IST" duration-ms="22">
       <class name="Test.day3">
-        <test-method signature="APILoginCarLoan()[pri:0, instance:Test.day3@7c7a06ec]" started-at="2026-03-22T14:41:30 IST" name="APILoginCarLoan" finished-at="2026-03-22T14:41:30 IST" duration-ms="1" status="PASS">
+        <test-method signature="APILoginCarLoan()[pri:0, instance:Test.day3@36ebc363]" started-at="2026-03-22T15:43:51 IST" name="APILoginCarLoan" finished-at="2026-03-22T15:43:51 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- APILoginCarLoan -->
-        <test-method signature="WebLoginCarLoan()[pri:0, instance:Test.day3@7c7a06ec]" started-at="2026-03-22T14:41:30 IST" name="WebLoginCarLoan" finished-at="2026-03-22T14:41:30 IST" duration-ms="3" status="PASS">
+        <test-method signature="WebLoginCarLoan()[pri:0, instance:Test.day3@36ebc363]" started-at="2026-03-22T15:43:51 IST" name="WebLoginCarLoan" finished-at="2026-03-22T15:43:51 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WebLoginCarLoan -->
       </class> <!-- Test.day3 -->
     </test> <!-- Car Loan -->
-    <test started-at="2026-03-22T14:41:30 IST" name="Home Loan" finished-at="2026-03-22T14:41:30 IST" duration-ms="31">
+    <test started-at="2026-03-22T15:43:51 IST" name="Home Loan" finished-at="2026-03-22T15:43:51 IST" duration-ms="14">
       <class name="Test.day4">
-        <test-method signature="APILoginHomeLoan()[pri:0, instance:Test.day4@34e9fd99]" started-at="2026-03-22T14:41:30 IST" name="APILoginHomeLoan" finished-at="2026-03-22T14:41:30 IST" duration-ms="9" status="PASS">
+        <test-method signature="APILoginHomeLoan()[pri:0, instance:Test.day4@43bc63a3]" started-at="2026-03-22T15:43:51 IST" name="APILoginHomeLoan" finished-at="2026-03-22T15:43:51 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- APILoginHomeLoan -->
-        <test-method signature="MobileLoginHomeLoan()[pri:0, instance:Test.day4@34e9fd99]" started-at="2026-03-22T14:41:30 IST" name="MobileLoginHomeLoan" finished-at="2026-03-22T14:41:30 IST" duration-ms="4" status="PASS">
+        <test-method signature="MobileLoginHomeLoan()[pri:0, instance:Test.day4@43bc63a3]" started-at="2026-03-22T15:43:51 IST" name="MobileLoginHomeLoan" finished-at="2026-03-22T15:43:51 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MobileLoginHomeLoan -->
-        <test-method signature="WebLoginHomeLoan()[pri:0, instance:Test.day4@34e9fd99]" started-at="2026-03-22T14:41:30 IST" name="WebLoginHomeLoan" finished-at="2026-03-22T14:41:30 IST" duration-ms="2" status="PASS">
+        <test-method signature="WebLoginHomeLoan()[pri:0, instance:Test.day4@43bc63a3]" started-at="2026-03-22T15:43:51 IST" name="WebLoginHomeLoan" finished-at="2026-03-22T15:43:51 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WebLoginHomeLoan -->

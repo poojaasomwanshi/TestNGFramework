@@ -6,11 +6,11 @@ public class day2 {
 
 	@Test
 	public void demo() {
-		System.out.println("hello");
+		System.out.println("hello day2");
 	}
 	@Test
 	public void demo2() {
-		System.out.println("bye");
+		System.out.println("bye day2");
 	}
 }
  
